@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Onweni
+- 👀 I’m interested in writing more than 'hello world' in Python
+- 🌱 I’m currently learning about different tech stacks, their similarites and uses
+- 💞️ I’m looking to collaborate on connecting technical talents to their next roles 
+- 📫 How to reach me onwenia@gmail.com, 🐦 @princessashinze
+- I love reading, baking, researching about People analytics and connecting technical talents to their next opportunites
